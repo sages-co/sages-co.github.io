@@ -29,7 +29,8 @@ url: "https://sages-co.github.io" # the base hostname & protocol for your site, 
 twitter_username: jekyllrb
 github_username:  jekyll
 show_downloads: true
-google_analytics: UA-203714728-1
+#google_analytics: UA-203714728-1
+google_analytics: UA-203714728-2
 
 # Build settings
 theme: minima
